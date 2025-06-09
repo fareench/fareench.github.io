@@ -2610,7 +2610,25 @@ input, select, textarea {
     text-decoration: none;
 }
 
+.circular-image {
+  width: 250px; 
+  height: 250px; /* Adjust as needed */
+  border-radius: 40%; /* Makes the image circular */
+}
 
+#theme01{
+    border-radius: 100%;
+}
+#theme02{
+    border-radius: 100%;
+}
+#theme03{
+    border-radius: 100%;
+}
+
+.cakephoto1 {
+    background-image: url("/images/logo.png");
+}
 
 /* Section/Article */
 
